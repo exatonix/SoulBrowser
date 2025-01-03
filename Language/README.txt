@@ -12,14 +12,14 @@ values-in        Indonesia
 values-it        Italian
 values-ja        Japanese
 values-ko        Korean
-values-pl        Poland
-values-pt-rBR    Brazilian Portuguese
+values-pl        Polish 
+values-pt-rBR    Portuguese (Brazilian)
 values-pt        Portuguese
 values-ro        Romania
 values-ru        Russian
 values-th        Thai
-values-tr        Turkey
+values-tr        Turkish
 values-vi        Vietnamese
-values-zh-rCN    Chinese Simplified
-values-zh-rTW    Chinese Traditional
+values-zh-rCN    Chinese (Simplified)
+values-zh-rTW    Chinese (Traditional)
 values           English
